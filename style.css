@@ -209,7 +209,7 @@ section {
     padding: 1rem;
     margin: 0.5rem;
     cursor: pointer;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .single-2:not(.column:first-child .single-2):hover {
